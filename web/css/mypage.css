@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+
+#memberInf {
+	width: 100%;
+	margin : 5%;	
+}
+#container {
+	margin : 0 auto;
+}
+
+#contents {
+	width : 100%;
+	margin : 100px auto 100px;
+}
+
+.titleArea {
+    min-height: 30px;
+    margin: 10px 0 40px;
+    text-align: center;
+}
+
+.titleArea h2 {
+	font-family: 'HelveticaLTPro','Arial';
+    font-size: 50px;
+    color: black;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.mypage_top span {
+	font-weight : 900;
+	font-size : 17px;
+}
+
+#myshopMain {
+	margin : 50px 0 80px;
+	text-align : center;
+}
+
+#myshopMain .shopMain {
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid #ddd;
+    line-height: 10px;
+}
+
+#myshopMain .shopMain a {
+    padding: 6px 20px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-decoration : none;
+    font-weight : 600;
+}
+
+.xans-myshop-orderstate {
+    width: 100%;
+    margin: 70px auto 230px;
+    border: 1px solid #ddd;
+}
+
+.xans-myshop-orderstate .title {
+    padding: 30px 20px 14px 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.xans-myshop-orderstate .title h3 {
+    padding: 0;
+    font-size: 12px;
+}
+
+.xans-myshop-orderstate .state {
+    overflow: hidden;
+    padding: 10px 0 20px 0;
+}
+
+.xans-myshop-orderstate .order li {
+    float: left;
+    width: 25%;
+    padding: 0 0 4px;
+    text-align: center;
+}
+
+.xans-myshop-orderstate .order {
+    float: left;
+    width: 80%;
+}
+
+.xans-myshop-orderstate .order .count {
+    font-size: 15px;
+}
+
+.xans-myshop-orderstate .cs {
+    float: left;
+    width: 20%;
+}
